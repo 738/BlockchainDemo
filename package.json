@@ -1,0 +1,24 @@
+{
+  "name": "BlockchainDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonJee/BlockchainDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonJee/BlockchainDemo/issues"
+  },
+  "homepage": "https://github.com/JonJee/BlockchainDemo#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
